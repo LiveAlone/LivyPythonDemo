@@ -1,0 +1,3 @@
+running 	Statement is currently running
+available 	Statement has a response ready
+error 	Statement failed
